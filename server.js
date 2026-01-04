@@ -26,6 +26,9 @@ const options = {
       {
         url: "http://localhost:3000",
       },
+      {
+        url: "http://13.234.66.109:3000",
+      },
     ],
   },
   apis: ["./server.js"], // location of Swagger comments
